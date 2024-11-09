@@ -2,3 +2,7 @@ body {
     color: aliceblue;
     background: rgb(188, 26, 148);
 }
+
+element.style {
+    border: solid 2px white;
+ }
