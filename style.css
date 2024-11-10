@@ -1,7 +1,9 @@
 body {
     color: aliceblue;
-    background: rgb(188, 26, 148);
+    background: rgb(195, 127, 229);
     margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
 }
 
 header {
@@ -11,4 +13,10 @@ header {
     color: rgb(140, 2, 191);
  }
 
-   
+   section{
+    background: rgba(255, 239, 14, 0.793);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+   }
